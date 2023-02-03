@@ -1,7 +1,19 @@
-<h1 align="center"><b>Hi , I'm Kumaresh</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=MehedilslamRipon&label=Profile%20views&color=0e75b6&style=flat" alt="MehedilslamRipon" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70EE4&background=ECFF2000&center=true&vCenter=true&width=439&lines=Fronted+developer;Self+Taught+Developer;1+Year+Experienced+" alt="Typing SVG" /></a>
+## Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm [Kumaresh](https://github.com/kumaresh-rgb/)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70EE4&background=ECFF2000&center=true&vCenter=true&width=439&lines=Fronted+developer;Self+Taught+Developer;1+Year+Experienced+" alt="Typing SVG" /></a>
+
+
+
+
+### Glad to see you here! :octocat:
+
+I'm a **Front-end Developer**. An enthusiast of technology always enjoys coding and likes to solve programming problems. I am interested in thinking/developing web-related modules or functionality and always try to find new ideas. My experience in web development spans One years.
+I live in India,Current location at Chennai . I completed my Computer Science  Engineering degree from <a href="https://jeppiaarinstitute.org/"> Jeppiaar Institute Of Technology</a>.I always try to help people in the tech community by sharing my knowledge. I love to read tech articles & play video games during my free time.
+
+---
+ 
 
 
 
