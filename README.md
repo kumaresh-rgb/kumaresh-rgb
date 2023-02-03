@@ -155,12 +155,12 @@ I live in India,Current location at Chennai . I completed my Computer Science  E
 ### :boy: A little more about me:
 
 ```javascript
-const mehedi = {
-   name: 'Mehedi Islam Ripon',
+const kumaresh = {
+   name: 'M.Kumaresh',
    pronouns: 'He' | 'Him',
-   languageSpoken: ['en_US', 'bn_BD'],
+   languageSpoken: ['en_US', 'Tamil'],
    code: ['Javascript', 'HTML', 'CSS'],
-   askMeAbout: ['web dev', 'tech', 'photography'],
+   askMeAbout: ['web dev', 'tech', 'Gaming'],
    technologies: {
       web: {
          frontEnd: ['ReactJS', 'NextJS', 'Bootstrap', 'Tailwind CSS'],
@@ -203,20 +203,6 @@ const mehedi = {
 	<br/>
   	<b>Profile:</b> https://data.typeracer.com/pit/profile?user=mehediislamripon
 </details>
-<details>
-  <summary> 🎧 I'm Listening Now:</summary>
-	<a href="https://spotify-github-profile.vercel.app/api/view?uid=ucv5mbjwn0si90mu5mgsc7qkt&redirect=true">
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ucv5mbjwn0si90mu5mgsc7qkt&cover_image=true&theme=novatorem" alt="MehedilslamRipon's Spotify status">
-</a>
-</details>
-  
-  ---
-
-<p>
-<img alt="MehedilslamRipon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MehedilslamRipon&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
-
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -234,60 +220,14 @@ const mehedi = {
 <br>
 <br>
 
------
-
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
 
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-## <b>வாழ்க தமிழ் ! வளர்க தமிழ் !</b>
+## <div align="center">வாழ்க தமிழ் ! வளர்க தமிழ் !<div/>
 
 </div>
 <br>
 <br>
 <br>
 <br>
-
----
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
