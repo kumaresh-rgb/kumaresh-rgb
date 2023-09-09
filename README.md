@@ -19,7 +19,7 @@ I live in India,Current location at Chennai . I completed my Computer Science  E
 -  🍕 &nbsp; Travelling, meetups & tech events.
 -  🚀 &nbsp; I’m currently learning Full Stack Web Development.
 -  :computer: &nbsp; Most written code line `console.log("hello world");`
--  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MehedilslamRipon).
+-  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kumaresh-rgb).
 -  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
 -  📝 &nbsp; Checkout my [Resume](https://github.com/).
 <div align="center">
