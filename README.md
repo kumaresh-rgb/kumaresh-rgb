@@ -178,7 +178,7 @@ const kumaresh = {
 ### ☄️ Github Streaks:
 
 <p align="center">
-    <img alt="MehedilslamRipon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MehedilslamRipon&theme=tokyonight&hide_border=true"/>
+    <img alt=" streak" src=""/>
 </p>
 
 
@@ -187,16 +187,16 @@ const kumaresh = {
 
 ### ⚙️ Things I use to get stuff done:
 
--  OS: Windows 11, Linux mint (cinnamon)
--  Machine: ASUS VivoBook 15 X512FJ
--  Browser: Brave and Chrome
--  Terminal: Hyper, Windows Terminal, ZSH: Oh My Zsh (PowerLevel10k)
--  Code Editor: VSCode - The best editor out there.
+-  OS: Windows 10, 
+-  Machine: Lenova IdeaPad Gaming 
+-  Browser: Chrome
+-  Terminal🪟 windows
+-  Code Editor: VSCode.
 <details>
   <summary>💻 Typeracer Scorecard:</summary>
-	<img src="https://data.typeracer.com/misc/badge?user=mehediislamripon" alt="MehedilslamRipon's typeracer Scorecard">
+	<img src="">
 	<br/>
-  	<b>Profile:</b> https://data.typeracer.com/pit/profile?user=mehediislamripon
+  	<b>Profile:</b>
 </details>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
