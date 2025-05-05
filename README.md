@@ -163,13 +163,14 @@ const kumaresh = {
    askMeAbout: ['web dev', 'tech', 'Gaming'],
    technologies: {
       web: {
-         frontEnd: ['ReactJS', 'NextJS', 'Bootstrap', 'Tailwind CSS'],
-         backEnd: ['NodeJS', 'ExpressJS', 'mongoose'],
+         frontEnd: ['Angular(Latest)',' PrimNg', 'Rxjs','Bootstrap', 'Tailwind CSS'],
+         backEnd: ['.DotNet Full Stack', 'Asp.Net ', 'Entity Framwork Core'],
       },
-      databases: ['mongoDB'],
-      misc: ['Firebase', 'Socket.IO'],
+      databases: ['SQL'],
+      misc: ['Graph Ql', 'Monaco Editor' , 'Rosyln'],
    },
-   currentFocus: 'frontEnd web Development',
+   currentFocus: 'UpScaling .Net Full Stack Development',
+Currently New Technology : ['Devops','AZURE' ]
 };
 ```
 
