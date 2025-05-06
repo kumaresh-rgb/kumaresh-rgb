@@ -17,7 +17,7 @@ I live in India,Current location at Chennai . I completed my Computer Science  E
 -  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 -  📰 &nbsp; Reading tech blogs whenever possible.
 -  🍕 &nbsp; Travelling, meetups & tech events.
--  🚀 &nbsp; I’m currently learning Full Stack Web Development.
+-  🚀 &nbsp; I’m currently Upscaling DotNet Full Stack Web Development.
 -  :computer: &nbsp; Most written code line `console.log("hello world");`
 -  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kumaresh-rgb).
 -  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
