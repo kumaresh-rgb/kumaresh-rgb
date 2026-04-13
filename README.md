@@ -21,7 +21,7 @@ I live in India,Current location at Chennai . I completed my Computer Science  E
 -  :computer: &nbsp; Most written code line `console.log("hello world");`
 -  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kumaresh-rgb).
 -  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
--  📝 &nbsp; Checkout my [Resume](https://github.com/).
+-  📝 &nbsp; Checkout my [Resume](https://portfolioblobforme.blob.core.windows.net/assets/kumareshresume.pdf).
 
 ---
 ### :dart: Languages and Tools:
@@ -32,117 +32,126 @@ I live in India,Current location at Chennai . I completed my Computer Science  E
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
+        <img src="https://api.iconify.design/logos:dotnet.svg" width="48" height="48" alt=".NET" />
       </a>
-      <br>HTML 5
+      <br>.NET / Core
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
+        <img src="https://api.iconify.design/logos:c-sharp.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>CSS 3
+      <br>C#
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="Javascript" />
+        <img src="https://api.iconify.design/logos:microsoft-azure.svg" width="48" height="48" alt="Azure" />
       </a>
-      <br>Javascript
+      <br>Azure
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="NodeJS" />
+        <img src="https://api.iconify.design/simple-icons:microsoftsqlserver.svg?color=%23CC2927" width="48" height="48" alt="SQL Server" />
       </a>
-      <br>NodeJS
+      <br>SQL Server
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="ReactJS" />
+        <img src="https://api.iconify.design/logos:visual-studio.svg" width="48" height="48" alt="Visual Studio" />
       </a>
-      <br>ReactJS
+      <br>VS Enterprise
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="48" height="48" alt="Git" />
+<img src="https://api.iconify.design/logos:azure-devops.svg" width="48" height="48" alt="Azure DevOps" />      
+	  </a>
+      <br>DevOps
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://api.iconify.design/logos:angular-icon.svg" width="48" height="48" alt="Angular" />
       </a>
-      <br>Git
+      <br>Angular
     </td>
     <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
+      <a href="#">
+        <img src="https://api.iconify.design/logos:react.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React.js
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://api.iconify.design/logos:typescript-icon.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://api.iconify.design/logos:javascript.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://api.iconify.design/logos:bootstrap.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+        <img src="https://api.iconify.design/logos:docker-icon.svg" width="48" height="48" alt="Docker" />
       </a>
-      <br>Postman
+      <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
+        <img src="https://api.iconify.design/logos:kubernetes.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://api.iconify.design/logos:redis.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://api.iconify.design/logos:nodejs-icon.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://api.iconify.design/logos:python.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://api.iconify.design/logos:mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="ExpressJS" />
-      </a>
-      <br>ExpressJS
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="NextJS" />
-      </a>
-      <br>NextJS
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
-      </a>
-      <br>Github
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
-      </a>
-      <br>VScode
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" width="48" height="48" alt="Terminal" />
-      </a>
-      <br>Terminal
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="npm" />
-      </a>
-      <br>npm
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" />
-      </a>
-      <br>TailwindCSS
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="48" height="48" alt="Photoshop" />
-      </a>
-      <br>Photoshop
-    </td>
-  </tr>
 </table>
 
+### 🛠️ Specialized Engineering Foundations
+* **Architecture & Patterns:** Unit of Work, Repository Pattern, SOLID Principles, OOPS.
+* **Data & APIs:** Entity Framework Core, Dapper, LINQ, RESTful APIs, T-SQL.
+* **Testing & Tools:** xUnit, Postman, NuGet, NPM, GIT Source Control.
+* **Methodologies:** Agile, Scrum, High-Scale Enterprise Development.
 ---
 ### :boy: A little more about me:
 
